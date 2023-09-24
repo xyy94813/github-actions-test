@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/xyy94813/github-actions-test/compare/v1.4.0...v1.5.0) (2023-09-24)
+
+
+### Features
+
+* 提供所有权限 ([1883a76](https://github.com/xyy94813/github-actions-test/commit/1883a76210399d6d473c8776c803d32806cff14c))
+
 ## [1.4.0](https://github.com/xyy94813/github-actions-test/compare/v1.3.0...v1.4.0) (2023-09-24)
 
 
