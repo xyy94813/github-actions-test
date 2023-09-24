@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/xyy94813/github-actions-test/compare/v1.1.0...v1.2.0) (2023-09-24)
+
+
+### Features
+
+* 支持 Publish workflow 手动触发 ([33bbe03](https://github.com/xyy94813/github-actions-test/commit/33bbe031d38e458c9f0f620695d58a5b54256711))
+
 ## [1.1.0](https://github.com/xyy94813/github-actions-test/compare/v1.0.0...v1.1.0) (2023-09-24)
 
 
