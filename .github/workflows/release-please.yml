@@ -8,6 +8,7 @@ on:
 permissions:
   contents: write # to create release commit (google-github-actions/release-please-action)
   pull-requests: write # to create release PR (google-github-actions/release-please-action)
+  actions: write #
 
 jobs:
   release-please:
@@ -16,6 +17,5 @@ jobs:
       - uses: google-github-actions/release-please-action@v3
         id: release
         with:
-          token: ${{ secrets.MY_GITHUB_TOKEN }}
           release-type: node
           package-name: amap-react-components
