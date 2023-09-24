@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/xyy94813/github-actions-test/compare/v1.3.0...v1.4.0) (2023-09-24)
+
+
+### Features
+
+* try to use token without security ([559f29d](https://github.com/xyy94813/github-actions-test/commit/559f29dfb2afe1a3aaabe16e3be082ccfb2daeb8))
+
 ## [1.3.0](https://github.com/xyy94813/github-actions-test/compare/v1.2.0...v1.3.0) (2023-09-24)
 
 
