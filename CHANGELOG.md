@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.0](https://github.com/xyy94813/github-actions-test/compare/v1.5.0...v1.6.0) (2023-09-24)
+
+
+### Features
+
+* 重新使用 secrets.token ([714e09e](https://github.com/xyy94813/github-actions-test/commit/714e09e43db723da8fb809a212fa5b84e0cf82f1))
+
 ## [1.5.0](https://github.com/xyy94813/github-actions-test/compare/v1.4.0...v1.5.0) (2023-09-24)
 
 
