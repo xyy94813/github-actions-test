@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/xyy94813/github-actions-test/compare/v1.2.0...v1.3.0) (2023-09-24)
+
+
+### Features
+
+* use my git-hub token ([de433f7](https://github.com/xyy94813/github-actions-test/commit/de433f7492166c9d420beb97f3ffeccd9ed36dbc))
+
 ## [1.2.0](https://github.com/xyy94813/github-actions-test/compare/v1.1.0...v1.2.0) (2023-09-24)
 
 
